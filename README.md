@@ -1,4 +1,5 @@
 # 13 Must-Have Features of Successful Educational Apps
+![alt text](image-1.png)
 
 This README outlines the 13 key features for creating a successful educational app, based on essential user-centric elements, engagement methods, and cutting-edge AI enhancements. These features aim to improve student learning experiences, provide valuable tools for teachers, and create a sustainable, interactive, and personalized platform.
 
@@ -66,3 +67,5 @@ Implement **AI for instant grading** and feedback. Detailed explanations for mis
 ---
 
 By integrating these must-have features, you create an educational app that offers personalized, engaging, and accessible learning experiences, driving both student success and satisfaction.
+
+![alt text](image.png)
